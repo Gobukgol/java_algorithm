@@ -1,4 +1,4 @@
-package main.java.com.min.programmers.DP;
+package main.java.com.min.programmers.dp;
 
 import java.util.Arrays;
 

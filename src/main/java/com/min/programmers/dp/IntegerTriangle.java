@@ -1,7 +1,4 @@
-package main.java.com.min.programmers.DP;
-
-import java.util.LinkedList;
-import java.util.Queue;
+package main.java.com.min.programmers.dp;
 
 public class IntegerTriangle {
     public static void main(String[] args) {

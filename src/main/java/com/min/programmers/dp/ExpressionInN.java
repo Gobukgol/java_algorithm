@@ -1,4 +1,4 @@
-package main.java.com.min.programmers.DP;
+package main.java.com.min.programmers.dp;
 
 public class ExpressionInN {
     public static void main(String[] args) {

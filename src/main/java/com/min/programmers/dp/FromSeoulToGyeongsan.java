@@ -1,6 +1,4 @@
-package main.java.com.min.programmers.DP;
-
-import java.util.Arrays;
+package main.java.com.min.programmers.dp;
 
 public class FromSeoulToGyeongsan {
 
