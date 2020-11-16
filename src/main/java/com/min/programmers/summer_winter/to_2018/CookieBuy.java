@@ -1,4 +1,4 @@
-package main.java.com.min.programmers.summer_winter.to_2018;
+package com.min.programmers.summer_winter.to_2018;
 
 public class CookieBuy {
     static class Solution {
